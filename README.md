@@ -1,13 +1,18 @@
-# Learn Repo Template
-![Status: ToDo](https://flat.badgen.net/static/Status/ToDo/red)
-<!-- ![Status: In Progress](https://flat.badgen.net/static/Status/In%20Progress/yellow) -->
+# Learn Clerk
+<!-- ![Status: ToDo](https://flat.badgen.net/static/Status/ToDo/red) -->
+![Status: In Progress](https://flat.badgen.net/static/Status/In%20Progress/yellow)
 <!-- ![Status: Done](https://flat.badgen.net/static/Status/Done/green) -->
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+Clerkで認証認可を作りたい、あわよくばDiscord認証が作りたい
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+- [x] RemixでClerkによるDiscordログインを行なう
+- [ ] HonoでClerkによるDiscordログインを行なう
+- [ ] HonoでDiscordサーバーによるログイン制御を行なう
+- [ ] 画面とAPIを連動させ、ログイン機能を実装する
 
 ## 参考資料
-- 特になし
+- [Full Stack: Remix Quickstart](https://clerk.com/docs/quickstarts/remix)
+- [JavaScript Backend SDK](https://clerk.com/docs/references/backend/overview)
+- [middleware/packages/clerk-auth at main · honojs/middleware](https://github.com/honojs/middleware/tree/main/packages/clerk-auth)
