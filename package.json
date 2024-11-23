@@ -15,6 +15,8 @@
   },
   "packageManager": "pnpm@9.4.0",
   "dependencies": {
+    "@clerk/localizations": "^3.7.0",
+    "@clerk/remix": "^4.2.56",
     "@remix-run/node": "^2.15.0",
     "@remix-run/react": "^2.15.0",
     "@remix-run/serve": "^2.15.0",
